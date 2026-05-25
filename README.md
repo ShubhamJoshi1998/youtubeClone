@@ -124,7 +124,7 @@ youtube-clone/
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/youtube-clone.git
+git clone https://github.com/ShubhamJoshi1998/youtube-clone.git
 ```
 
 ## 2️⃣ Navigate to Project Folder
