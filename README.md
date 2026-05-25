@@ -74,14 +74,46 @@ The application allows users to:
 youtube-clone/
 │
 ├── public/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── assets/
-│   ├── App.js
-│   ├── index.js
 │
+├── src/
+│   │
+│   ├── Components/
+│   │   │
+│   │   ├── Feed/
+│   │   │   ├── Feed.js
+│   │   │   └── Feed.css
+│   │   │
+│   │   ├── Navbar/
+│   │   │   ├── Navbar.js
+│   │   │   └── Navbar.css
+│   │   │
+│   │   ├── PlayVideo/
+│   │   │   ├── PlayVideo.js
+│   │   │   └── PlayVideo.css
+│   │   │
+│   │   ├── Recomended/
+│   │   │
+│   │   └── Sidebar/
+│   │       ├── Sidebar.jsx
+│   │       └── Sidebar.css
+│   │
+│   ├── Pages/
+│   │   │
+│   │   ├── Home/
+│   │   │   ├── Home.js
+│   │   │   └── Home.css
+│   │   │
+│   │   └── Video/
+│   │
+│   ├── App.js
+│   ├── data.js
+│   ├── index.js
+│   └── index.css
+│
+├── .env
+├── .gitignore
 ├── package.json
+├── package-lock.json
 └── README.md
 ```
 
